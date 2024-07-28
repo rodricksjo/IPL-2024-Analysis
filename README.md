@@ -1,7 +1,7 @@
 # IPL-2024-Analysis
 I have done basic exploratory Analysis on the IPL 2024 dataset.
 
-**Dataset Description** <br><br>
+#Dataset Description <br>
 id: Match number <br>
 date: When the match was played <br>
 team1: The team that batted first <br>  
@@ -19,7 +19,7 @@ most_wkts: The bowler who took the most wickets (if bowlers have the same number
 
 
 
-#**Steps** 
+#Steps 
  1. Get the data
  2. Clean the data and transform
  3. Do the necessary transformations 
